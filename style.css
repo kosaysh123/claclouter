@@ -54,7 +54,9 @@ form input.operator{
     color: #33ffd8;
 }
 
-
+.bg-oring{
+    background-color: rgb(236, 83, 28) !important;
+}
 
 
 
